@@ -14,6 +14,12 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 
 #
 
+![Flexible Electronics](https://github.com/user-attachments/assets/030b7541-0ebc-40eb-bf43-4bbe6750b77f)
+
+[Flexible Electronics](https://chatgpt.com/g/g-67b1cdfbf0108191aeeae995a1128147-flexible-electronics) is a custom GPT that focuses on the interdisciplinary field of electronic devices made from flexible, stretchable, or conformable materials. It provides expert insights into topics such as organic semiconductors, conductive polymers, thin-film transistors (TFTs), sensors, flexible displays, and energy storage devices. Designed to support innovation in emerging technologies, it helps users explore how flexible electronics can be applied in areas like healthcare, wearable tech, aerospace, and renewable energy. Through step-by-step, guided interactions, it assists with device design, material selection, fabrication methods, and application development, making it a valuable tool for researchers, engineers, and students in the field.
+
+#
+
 [Circuit Visual](https://chatgpt.com/g/g-6813d8feba008191a665d9e6e63e8879-circuit-visual)
 <br>
 [Biomolecular Circuits](https://chatgpt.com/g/g-67fc18056de081918d06edfb1e321bd5-biomolecular-circuits)
@@ -23,3 +29,5 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 [Nano PCB](https://chatgpt.com/g/g-67986829867481919ad7f0d9179450e7-nano-pcb)
 <br>
 [PCB Theorist](https://chatgpt.com/g/g-67638ba295708191b089a004dd3332b7-pcb-theory)
+<br>
+[Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
