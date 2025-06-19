@@ -21,3 +21,5 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 [DIY PCB](https://chatgpt.com/g/g-678c1ec30c948191b9ef8ed5cf32d766-diy-pcb)
 <br>
 [Nano PCB](https://chatgpt.com/g/g-67986829867481919ad7f0d9179450e7-nano-pcb)
+<br>
+[PCB Theorist](https://chatgpt.com/g/g-67638ba295708191b089a004dd3332b7-pcb-theory)
