@@ -19,3 +19,5 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 [Biomolecular Circuits](https://chatgpt.com/g/g-67fc18056de081918d06edfb1e321bd5-biomolecular-circuits)
 <br>
 [DIY PCB](https://chatgpt.com/g/g-678c1ec30c948191b9ef8ed5cf32d766-diy-pcb)
+<br>
+[Nano PCB](https://chatgpt.com/g/g-67986829867481919ad7f0d9179450e7-nano-pcb)
