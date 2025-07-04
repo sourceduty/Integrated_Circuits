@@ -20,6 +20,31 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 
 #
 
+```
+Level 1 – Basic: Simple Circuit
+(resistor, switch, LED, voltage divider)
+│
+Level 2 – Low: Elementary Building Block
+(logic gates, op-amps, transistors)
+│
+Level 3 – Moderate: Functional Module
+(adders, comparators, filters, flip-flops, oscillators)
+│
+Level 4 – Intermediate: Subsystem
+(ALU, memory block, power supply, sensor interface, ADC/DAC)
+│
+Level 5 – High: Integrated Functional Block
+(microcontroller, FPGA, DSP, ASIC)
+│
+Level 6 – Very High: Complete System
+(embedded system, SoC, development board, motherboard)
+│
+Level 7 – Complex: Hardware Platform
+(smartphone, laptop, robot, drone, server)
+```
+
+#
+
 [Circuit Visual](https://chatgpt.com/g/g-6813d8feba008191a665d9e6e63e8879-circuit-visual)
 <br>
 [Biomolecular Circuits](https://chatgpt.com/g/g-67fc18056de081918d06edfb1e321bd5-biomolecular-circuits)
