@@ -31,3 +31,9 @@ Also, [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-qua
 [PCB Theorist](https://chatgpt.com/g/g-67638ba295708191b089a004dd3332b7-pcb-theory)
 <br>
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
+<br>
+[Theoretical Semiconductor](https://chatgpt.com/g/g-67b6c4e9df248191ae35ce00e16aa51b-theoretical-semiconductor)
+<br>
+[Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
+<br>
+[Semiconductor Sim](https://chatgpt.com/g/g-LNpy4y0uU-semiconductor-sim)
