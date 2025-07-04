@@ -1,0 +1,47 @@
+System-on-Chip (SoC)
+├── Digital Subsystem
+│   ├── Processor Core
+│   │   ├── ALU
+│   │   ├── Control Unit
+│   │   └── Register File
+│   ├── Memory Controller
+│   ├── Peripherals Interface
+│   └── Logic Blocks
+│       ├── Combinational Logic
+│       │   ├── AND, OR, NOT Gates
+│       │   └── Multiplexers, Encoders, Decoders
+│       └── Sequential Logic
+│           ├── Flip-Flops (D, JK, T)
+│           ├── Latches
+│           └── Counters, Shift Registers
+│
+├── Analog Subsystem
+│   ├── Signal Conditioning
+│   │   ├── Amplifiers (Op-Amps, Instrumentation Amps)
+│   │   ├── Filters (Low/High/Band-Pass)
+│   │   └── Buffers
+│   ├── Voltage Regulation
+│   │   ├── LDOs
+│   │   └── Switching Regulators
+│   └── Oscillators & Timing
+│       ├── Crystal Oscillators
+│       ├── RC Oscillators
+│       └── Phase-Shifting Networks
+│
+├── Mixed-Signal Subsystem
+│   ├── Data Converters
+│   │   ├── ADC (SAR, Sigma-Delta, Flash)
+│   │   └── DAC (R-2R Ladder, Current Steering)
+│   ├── PLLs & Clock Generators
+│   │   ├── Phase Detector
+│   │   ├── Loop Filter
+│   │   └── VCO
+│   └── Analog Front-End (AFE)
+│       ├── Sample and Hold Circuits
+│       ├── Programmable Gain Amplifiers
+│       └── Anti-aliasing Filters
+│
+└── I/O Interface
+    ├── GPIO, SPI, I2C, UART
+    ├── ADC/DAC Interface Logic
+    └── ESD and Protection Circuits
