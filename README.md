@@ -48,6 +48,12 @@ Level 7 – Complex: Hardware Platform
 
 #
 
+![Binary](https://github.com/user-attachments/assets/07920d53-984a-4ec4-b194-1a3aa16a3ea7)
+
+[UART](https://chatgpt.com/g/g-67a046f6b8f881919c50ccde1aa17bb2-uart) is a common communication protocol used by many electronic devices, including various types of sensors. One advantage that UART-based sensor modules offer over other interfaces like I2C or SPI is the ease of use provided by on-board data conversion and signal conditioning circuitry within the module itself. This allows for simplified integration into microcontroller projects without requiring additional external components to convert raw analog signals from the sensor into usable digital values.
+
+#
+
 [Circuit Visual](https://chatgpt.com/g/g-6813d8feba008191a665d9e6e63e8879-circuit-visual)
 <br>
 [Biomolecular Circuits](https://chatgpt.com/g/g-67fc18056de081918d06edfb1e321bd5-biomolecular-circuits)
