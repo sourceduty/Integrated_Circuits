@@ -93,3 +93,5 @@ Whether programming is easier than electrical engineering depends on the individ
 [Semiconductor Sim](https://chatgpt.com/g/g-LNpy4y0uU-semiconductor-sim)
 <br>
 [Sensor Terminal](https://chatgpt.com/g/g-686b0a69c00081919418bd123cb9ab07-sensor-terminal)
+<br>
+[Fluid Logic](https://github.com/sourceduty/Fluid_Logic)
